@@ -79,9 +79,10 @@ The dataset represents 10,000 patient records across multiple hospitals over a 5
 - Computed mean, median, minimum, and maximum billing amounts  
 - Evaluated billing variability across patients  
 - Identified cost patterns relevant to hospital resource utilization
- 
+
+ ## Key Insights
  📌 Full insights are documented in
- **KEY_INSIGHTS.ipynb
+ **README_KEY_INSIGHTS.ipynb
 
 ---
 
@@ -92,13 +93,7 @@ The dataset represents 10,000 patient records across multiple hospitals over a 5
 - Observational data limits causal inference  
 
 ---
-
-## ✅ Key Insights
-- Diagnostic test results alone were not strong predictors of hospital length of stay  
-- Billing amounts showed notable variability across patient records  
-- Asthma represents a significant disease burden  
-- Provider, medication, and insurance distributions offer insight into healthcare delivery patterns  
-
+ 
 ---
 
 ## 🚀 Recommendations & Next Steps
