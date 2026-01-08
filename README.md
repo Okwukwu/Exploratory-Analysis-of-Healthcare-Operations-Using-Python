@@ -22,7 +22,7 @@ This project applies structured data cleaning, feature engineering, and descript
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 The dataset contains patient-level hospital encounter records with both clinical and administrative information.
 
 ### Key Columns
@@ -44,17 +44,16 @@ Each row represents a single hospital visit.
 
 ---
 
-## 🔍 Understanding the Data
+## Understanding the Data
 Initial data understanding involved:
 - Inspecting dataset dimensions and column data types  
 - Differentiating **numerical** and **categorical** features  
 - Identifying raw versus engineered columns  
-- Reviewing completeness and consistency across clinical and administrative fields  
-
+- Reviewing completeness and consistency across clinical and administrative fields
 The dataset represents 10,000 patient records across multiple hospitals over a 5-year period starting from 30-10-2018 to 30-10-2023. There are 10,000 patients in the dataset with 15 columns which contain the patient's details such as name, age, gender, blood group, medical conditions and other details. The minimium age of patient that was admitted is 18 years and maximium is 85 years. The first admission occured on the 30-10-2018 and the last was 30-10-2023.
 ---
 
-## 🛠️ Data Cleaning & Feature Engineering
+## Data Cleaning & Feature Engineering
 
 ### Feature Engineering
 - Created **Length of Stay (LOS)** as the difference between discharge and admission dates  
@@ -74,7 +73,7 @@ The dataset represents 10,000 patient records across multiple hospitals over a 5
 
 ---
 
-## 📊 Exploratory & Descriptive Analysis
+## Exploratory & Descriptive Analysis
 - Length of stay showed minimal variation across diagnostic categories.
 - Computed mean, median, minimum, and maximum billing amounts  
 - Evaluated billing variability across patients  
@@ -96,8 +95,7 @@ The dataset represents 10,000 patient records across multiple hospitals over a 5
  
 ---
 
-## 🚀 Recommendations & Next Steps
-- Analyze LOS and billing by **doctor, department, or insurance provider**  
+## Recommendations & Next Steps 
 - Apply statistical testing or regression models  
 - Incorporate patient outcomes and comorbidity data  
 - Build dashboards for operational decision support  
