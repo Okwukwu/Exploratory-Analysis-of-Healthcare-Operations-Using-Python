@@ -50,7 +50,8 @@ Initial data understanding involved:
 - Differentiating **numerical** and **categorical** features  
 - Identifying raw versus engineered columns  
 - Reviewing completeness and consistency across clinical and administrative fields
-The dataset represents 10,000 patient records across multiple hospitals over a 5-year period starting from 30-10-2018 to 30-10-2023. There are 10,000 patients in the dataset with 15 columns which contain the patient's details such as name, age, gender, blood group, medical conditions and other details. The minimium age of patient that was admitted is 18 years and maximium is 85 years. The first admission occured on the 30-10-2018 and the last was 30-10-2023.
+
+- The dataset represents 10,000 patient records across multiple hospitals over a 5-year period starting from 30-10-2018 to 30-10-2023. There are 10,000 patients in the dataset with 15 columns which contain the patient's details such as name, age, gender, blood group, medical conditions and other details. The minimium age of patient that was admitted is 18 years and maximium is 85 years. The first admission occured on the 30-10-2018 and the last was 30-10-2023.
 ---
 
 ## Data Cleaning & Feature Engineering
@@ -81,7 +82,7 @@ The dataset represents 10,000 patient records across multiple hospitals over a 5
 
  ## Key Insights
  📌 Full insights are documented in
- **README_KEY_INSIGHTS.ipynb
+ **README_KEY_INSIGHTS.ipynb**
 
 ---
 
