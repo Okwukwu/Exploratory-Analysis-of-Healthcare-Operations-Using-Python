@@ -83,11 +83,10 @@ Initial data understanding involved:
  ## Key Insights
  📌 Full insights are documented in
  **README_KEY_INSIGHTS.ipynb**
- 
- Code available in 
+---
+Code available in 
  **HEALTH PROJECT.ipynb**
 ---
-
 ## Limitations
 - Dataset lacks clinical severity and outcome indicators  
 - Medication and billing data do not capture dosage or treatment duration  
